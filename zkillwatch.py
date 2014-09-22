@@ -1,4 +1,4 @@
-__author__ = 'ghoti'
+# __author__ = 'ghoti'
 import humanize
 import re
 import requests
